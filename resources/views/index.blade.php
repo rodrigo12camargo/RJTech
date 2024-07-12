@@ -29,7 +29,8 @@
 
     <!-- Template Stylesheet -->
     <link href="{{ asset('css/style.css') }}" rel="stylesheet">
-</head>
+    
+    </head>
 
 <body>
     <!-- Spinner Start -->
